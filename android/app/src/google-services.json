@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1064693141100",
+    "project_id": "polaris-912ef",
+    "storage_bucket": "polaris-912ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064693141100:android:28cffdc85556634b155249",
+        "android_client_info": {
+          "package_name": "com.hackathon.polaris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064693141100-mp9j3ri46de0rkqmq70gilg1lk7n66c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuCbK1jFpiVXyMrMXiN7Q7h3puC46SKQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064693141100-mp9j3ri46de0rkqmq70gilg1lk7n66c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

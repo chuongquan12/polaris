@@ -1,0 +1,42 @@
+[
+  {
+    "from": "TP HCM",
+    "to": {
+      "name": "Vung Tau",
+      "location": { "x": 10.7993326, "y": 106.6489262 }
+    },
+    "hightStop": [
+      {
+        "location": { "x": 10.7993326, "y": 106.6489262 },
+        "suggestion": [
+          {
+            "image": "assets/images/restaurant_4.jpg",
+            "title": "Gaucho Tower Bridge",
+            "address": "2 More London Riverside, London SE1 2AP, United Kingdom",
+            "location": { "x": 10.7993326, "y": 106.6489262 }
+          },
+          {
+            "image": "assets/images/restaurant_4.jpg",
+            "title": "Gaucho Tower Bridge",
+            "address": "2 More London Riverside, London SE1 2AP, United Kingdom",
+            "location": { "x": 10.7993326, "y": 106.6489262 }
+          }
+        ]
+      }
+    ],
+    "lowStop": [
+      {
+        "image": "assets/images/restaurant_4.jpg",
+        "title": "Gaucho Tower Bridge",
+        "address": "2 More London Riverside, London SE1 2AP, United Kingdom",
+        "location": { "x": 10.7993326, "y": 106.6489262 }
+      },
+      {
+        "image": "assets/images/restaurant_4.jpg",
+        "title": "Gaucho Tower Bridge",
+        "address": "2 More London Riverside, London SE1 2AP, United Kingdom",
+        "location": { "x": 10.7993326, "y": 106.6489262 }
+      }
+    ]
+  }
+]
